@@ -1,19 +1,23 @@
  h1{text-align: center; 
     background-color:Gold;  
     font-family:Brush Script MT;  
-    font-size:500%;  
+    font-size:750%;  
     text-shadow:7px 7px 0 GoldenRod;
    }
+button{
+ font-size:200%;  
+ text-shadow:3px 3px 0 gray;
+}
   h2{text-align: center;
-     background-color:Bisque;  
+      background-color:Bisque;  
      font-family:Brush Script MTs;  
-     font-size:175%;  
+     font-size:250%;  
      text-shadow:4px 4px 0 BurlyWood;
     }
      p{text-align: center; 
        background-color:Bisque;  
        font-family:Brush Script MTs;  
-       font-size:130%; 
+       font-size:200%; 
        text-shadow:3px 3px 0 BurlyWood;
       }
    body{
